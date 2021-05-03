@@ -21,7 +21,7 @@ Upon analysis, it is evident that temperatures are typically higher in the month
  ![Dec Temp](/Output/Dec_temp_describe.PNG)
  
 Visualizations of the spread of temperature data collected for each month show that Decembers minimum is one of a cluster of outliers slightly skewing (skew = 0.41) the mean temperature to the left (as shown below). This, alongside the similar mean temperatures, suggests that while December temperatures do dip lower than those of June, most days between months are not very dissimilar. 
-  ![June Temp Boxplot](/Output/June_temp_box_resized.PNG)
+  ![June Temp Boxplot](/Output/June_temp_box._resized.PNG)
   ![Dec Temp Boxplot](/Output/Dec_temp_box_resized.PNG)
   
 These results indicate that the level of temperature fluctuation throughout the calendar year is low. The odds of seasonal changes in temperature impacting the viability of keeping a weather-reliant shop open year-long are slim. However, there are other facets of the weather that may impact traffic to the business. One such factor is precipitation. 
